@@ -15,3 +15,7 @@ Simples app que renderiza dados em um display com tabs para alternar o conteúdo
 3) npm install || yarn install;
 4) npm run dev || yarn dev;
 5) Abrir [http://localhost:3000](http://localhost:3000) no browser.
+
+## Demo
+
+https://tabs-app-1.netlify.app/
